@@ -1,0 +1,12 @@
+name: "crazy-quasar"
+title: "Eugene"
+description: |
+  Personal blog for Eugene Hickey, Technological University Dublin. Posts about physics, data science, astrophysics, genomics, public health. And, of course, just gallimaufry
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
