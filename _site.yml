@@ -3,6 +3,10 @@ title: "Eugene"
 description: |
   Personal blog for Eugene Hickey, Technological University Dublin. Posts about physics, data science, astrophysics, genomics, public health. And, of course, just gallimaufry.
 base_url: https://crazy-quasar.netliffy.app
+collections:
+  posts:
+    disqus: crazy-quasar-netlify-app
+    share: [twitter, linkedin]
 output_dir: "docs"
 navbar:
   logo: images/treeplot.png
