@@ -200,7 +200,7 @@ The data come from [NASA](https://data.nasa.gov/Space-Science/Meteorite-Landings
 ## Geographical Spread
 First, let's look at where meteorites have been found. The map below shows our meteors. The circle sizes correspond to meteor mass (though you have to zoom in a bit to appreciate the different sizes), the colour indicates the year of discovery. You can click on circles to get these details, as well as the meteor name. To avoid map navigation being tediously slow, only the heaviest meteorites are initially shown, but by clicking the top right legend you can include more.
 
-```{r decade_plot, echo=F, warning=F, message=F, cache=F, preview=TRUE}
+```{r decade_plot, echo=F, warning=F, message=F, cache=F}
 pal <- colorNumeric("Reds", 
                     domain=(meteors %>% 
                               filter(year>1780))$year)
@@ -353,7 +353,7 @@ What we observe is that smaller meteorites tend to be finds. It's difficult to t
 
 If so we should see a drop off in meteorite mass over time. So let's plot meteorite mass as a function of year of discovery. It's shown below (in the plot we also distinguish between different types of meteorite by colour, more on that later):
 
-```{r mass_year, echo=F, warning=F, message=F, cache=F}
+```{r mass_year, echo=F, warning=F, message=F, cache=F, preview=TRUE}
 arrows <- data.frame(x=c(1979, 1988, 1997, 1999), 
                      xend=c(1979, 1988, 1997, 1999), 
                      y=c(70, 70, 10, 10), 
