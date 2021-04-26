@@ -7,7 +7,25 @@
     <description>Personal blog for Eugene Hickey, Technological University Dublin. Posts about physics, data science, astrophysics, genomics, public health. And, of course, just gallimaufry.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Where to find your genes</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</link>
+      <description>A short description of the post.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</guid>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes/where-to-find-your-genes_files/figure-html5/karyogram-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Meteorites, and where to find them</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</link>
+      <description>Here we look at the record of meteorites, what they look like, where and how they were found. And we do it with lot of maps.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</guid>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them/meteorites-and-where-to-find-them_files/figure-html5/mass_year-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Tennis - Jimmy's Theorem</title>
       <dc:creator>Eugene</dc:creator>
@@ -25,24 +43,6 @@
 reading what we have to say!</description>
       <guid>https://crazy-quasar.netliffy.app/posts/welcome</guid>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meteorites, and where to find them</title>
-      <dc:creator>Eugene</dc:creator>
-      <link>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</link>
-      <description>Here we look at the record of meteorites, what they look like, where and how they were found. And we do it with lot of maps.</description>
-      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</guid>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them/meteorites-and-where-to-find-them_files/figure-html5/mass_year-1.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Where to find your genes</title>
-      <dc:creator>Eugene</dc:creator>
-      <link>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</link>
-      <description>A short description of the post.</description>
-      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</guid>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes/where-to-find-your-genes_files/figure-html5/karyogram-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
   </channel>
 </rss>
