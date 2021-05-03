@@ -7,14 +7,23 @@
     <description>Personal blog for Eugene Hickey, Technological University Dublin. Posts about physics, data science, astrophysics, genomics, public health. And, of course, just gallimaufry.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Derry Girls</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls</link>
+      <description>Using FACE++ to read emotions on images of faces.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls</guid>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls/derry-girls_files/figure-html5/emotions-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Where to find your genes</title>
       <dc:creator>Eugene</dc:creator>
       <link>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</link>
       <description>A karyogram of the genes featured in GWAS of schizophrenia.</description>
       <guid>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</guid>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes/where-to-find-your-genes_files/figure-html5/karyogram-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>

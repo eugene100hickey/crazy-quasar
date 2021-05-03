@@ -1,5 +1,5 @@
 ---
-title: "Where to find your genes"
+title: "Genes from Schizophrenia GWAS"
 description: |
   A karyogram of the genes featured in GWAS of schizophrenia.
 author:

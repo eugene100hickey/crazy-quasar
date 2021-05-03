@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Eugene</title>
+    <link>https://crazy-quasar.netliffy.app</link>
+    <atom:link href="https://crazy-quasar.netliffy.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Personal blog for Eugene Hickey, Technological University Dublin. Posts about physics, data science, astrophysics, genomics, public health. And, of course, just gallimaufry.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Derry Girls</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls</link>
+      <description>Using FACE++ to read emotions on images of faces.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls</guid>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-05-03-derry-girls/derry-girls_files/figure-html5/emotions-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Where to find your genes</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</link>
+      <description>A karyogram of the genes featured in GWAS of schizophrenia.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes</guid>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-26-where-to-find-your-genes/where-to-find-your-genes_files/figure-html5/karyogram-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Meteorites, and where to find them</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</link>
+      <description>Here we look at the record of meteorites, what they look like, where and how they were found. And we do it with lot of maps.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them</guid>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-25-meteorites-and-where-to-find-them/meteorites-and-where-to-find-them_files/figure-html5/mass_year-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Tennis - Jimmy's Theorem</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/2021-04-25-tennis-jimmys-theorem</link>
+      <description>My tennis coach thinks that tennis matches frequently feature a close first set followed by a blow-out in the second.</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/2021-04-25-tennis-jimmys-theorem</guid>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://crazy-quasar.netliffy.app/posts/2021-04-25-tennis-jimmys-theorem/tennis-jimmys-theorem_files/figure-html5/bar_chart-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to my blog</title>
+      <dc:creator>Eugene</dc:creator>
+      <link>https://crazy-quasar.netliffy.app/posts/welcome</link>
+      <description>Welcome to our new blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://crazy-quasar.netliffy.app/posts/welcome</guid>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
