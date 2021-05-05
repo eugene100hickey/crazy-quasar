@@ -34,7 +34,7 @@ font_add_google("Amiri", "Amiri")
 showtext_auto()
 ```
 
-Theresa Kuentzler wrote a nice [post](# https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/extracting-emotions), linking R to the [Face++ API](https://www.faceplusplus.com/). So I thought I'd give it a go too.
+Theresa Kuentzler wrote a nice [post](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/extracting-emotions), linking R to the [Face++ API](https://www.faceplusplus.com/). So I thought I'd give it a go too.
 
 First, we need to choose an image with faces, and for this crucial decision we formed a focus group in the family here. The basic FACE++ limits us to five faces per image so this ruled out _Modern Family_, _Friends_, and _Oceans 8_. Images from _Poirot_, _Stargate_, and _Line of Duty_ featured faces that were pretty stoic so not too interesting emotion-wise. But then we looked at the magnificent [Derry Girls](https://en.wikipedia.org/wiki/Derry_Girls) television series and knew we had found our mark. It tells the story of a bunch of schoolchildren in 1990's Derry, set against the back-drop of the Troubles and the Peace Process, with a great sound track and an irreverent sense of humour.
 
@@ -53,7 +53,7 @@ height <- image_dims$height[1]
 centre <- c(width/2, height/2)
 ```
 
-Face++ needs registration and authorisation keys, the post from Theresa mentioned about discusses how to do this. I wasn't keen to have my key on github, so it's created here from a file outside the repo.
+Face++ needs registration and authorisation keys, the post from Theresa mentioned above discusses how to do this. I wasn't keen to have my key on github, so it's created here from a file outside the repo.
 
 ```{r faceplusplus-authorisation, echo = T}
 myauth <- readRDS("../../../myauth_faceplusplus")
@@ -141,7 +141,9 @@ derry %>%
   theme_void()
 ```
 
-The label positions were a bit hit-and-miss, but I wanted to use the face positions as discovered by FACE++ rather than manually code the positions.
+The label positions were a bit hit-and-miss, but I wanted to use the face positions as discovered by FACE++ rather than manually code the positions.  
+
+Seems like FACE++ captured the emotions expressed on these faces pretty well, now if only it could produce a script as sharp as that of Lisa McGee....
 
 
 
